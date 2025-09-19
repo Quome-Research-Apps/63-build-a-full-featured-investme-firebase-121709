@@ -1,0 +1,1 @@
+{"name": "63-build-a-full-featured-investme-firebase-121709", "spec": {"port": 8000, "containers": [{"image": "", "name": "63-build-a-full-featured-investme-firebase-121709", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
